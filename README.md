@@ -22,7 +22,7 @@ Categorical values are converted to one hot encoding with pandas function "get_d
 
 Finding the best value for k (number of clusters) is done by plotting the inertia of the grouping algorithm, value that represents the relative distance of samples to the closer cluster center. 
 
-![Elbow](M19_3.png)
+![Elbow](Images/M19_3.png)
 
 From the graph, it could be seen that an elbow shape is formed indicating that values of K equals to 4 are what best represents the number of clusters of the data as the change of inertia is less pronounced. 
 
@@ -32,15 +32,15 @@ Once selected the classification algorithm, predictions on the data are used to 
 
 The predictions are added to the data and summarized in the following table.
 
-![table](M19_5.png)
+![table](Images/M19_5.png)
 
 Making a 2 dimentional plot, it can be seen that data is agregatted on one side of the graph.
 
-![graph](M19_6.png)
+![graph](Images/M19_6.png)
 
 A 3D plot serves as a better way to visualize the effect of change on the principal components of the processed data.
 
-![graph 2](M19_4.png)
+![graph 2](Images/M19_4.png)
 
 #### Further exploration
 
