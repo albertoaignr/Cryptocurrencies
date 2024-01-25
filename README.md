@@ -44,7 +44,7 @@ A 3D plot serves as a better way to visualize the effect of change on the princi
 
 #### Further exploration
 
-Even though the classification system seems to identify different groups of cryptocurrencies, there is another exploratory phase to determine which combination of components will be best fro investment.
+Even though the classification system seems to identify different groups of cryptocurrencies, there is another exploratory phase to determine which combination of components will be best for investment.
 
 
 
