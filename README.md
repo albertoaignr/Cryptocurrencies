@@ -1,6 +1,6 @@
 # Cryptocurrencies
 
-Creating analysis to get into the cryptocurrency market.
+Analyzing cryptocurrency data to explore market options.
 
 ## Classification system
 
